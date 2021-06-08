@@ -10,7 +10,7 @@ heroku==0.1.4
 idna==2.10
 mysql-connector==2.2.9
 mysqlclient==1.4.6
-Pillow==7.1.2
+Pillow==8.2.0
 pipreqs==0.4.10
 psycopg2==2.8.5
 python-dateutil==1.5
